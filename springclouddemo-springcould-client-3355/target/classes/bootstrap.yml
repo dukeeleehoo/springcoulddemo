@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      name: springcould-config-client
+      profile: dev
+      label: master
+      uri: http://config3334.com:3334

@@ -1,0 +1,5 @@
+spring:
+    profiles: test
+    application:
+        name: springclouddemo-springcould-client-3355
+        
